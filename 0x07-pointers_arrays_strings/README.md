@@ -1,0 +1,1 @@
+** this is another readme about pointers arrays and stings **
